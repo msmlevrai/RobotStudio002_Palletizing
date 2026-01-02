@@ -1,6 +1,6 @@
 # RobotStudio002_Palletizing
 This project demonstrates a Palletiting procedure using ABB RobotStudio. It includes a virtual work cell, RAPID code, and SmartComponents to simulate a robotic arm Performing the intended task.
-[▶️ Watch the demo on YouTube]()
+[▶️ Watch the demo on YouTube](https://www.youtube.com/shorts/rRqUMVhMbpA)
 
 ## 🔧 Features
 - RobotStudio work cell setup
