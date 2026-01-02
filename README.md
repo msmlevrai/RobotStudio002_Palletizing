@@ -17,5 +17,3 @@ This project demonstrates a Palletiting procedure using ABB RobotStudio. It incl
 ## 💬 Let’s Connect:
 📎 [LinkedIn Profile](https://www.linkedin.com/in/mamadou-sory-maiga-0612112ab)  
 
-## ▶️ Demo
-![Pick and Place Demo]()
